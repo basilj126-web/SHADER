@@ -1,0 +1,18 @@
+# Python standard exclusions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Game-specific exclusions
+*.pdb
+*.exe
+*.dll
+*.log
+*.so
+*.dylib
+*.swp
+*.swo
+*.tmp
+*.zip
+*.tar.gz
+*.7z
